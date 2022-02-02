@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hcduffey
+- 👋 Hi, I’m Cliff
 - 👀 I’m interested in web development and security
 - 🌱 I’m currently learning golang, and azure devops
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/cduffey) or [Twitter](https://www.twitter.com/CliffDuffey2)
