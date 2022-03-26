@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Cliff
 - 👀 I’m interested in software engineering and cybersecurity
-- 🌱 I’m currently learning software engineering
+- 🌱 I’m currently learning web development as a student in the software engineering immersion program at [General Assembly](https://generalassemb.ly/)
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/cduffey)
 
 <!---
