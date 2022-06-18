@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Cliff
 - 👀 I’m interested in software engineering and cybersecurity
 - 🌱 I recently completed a software engineering immersion program at [General Assembly](https://generalassemb.ly/) and am actively seeking a software engineering opportunity
+- 👉 Check out my work at [Portfolio](https://cliffduffey.dev)
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/cduffey)
 
 <!---
